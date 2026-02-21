@@ -1,0 +1,47 @@
+h1{
+color: #8090F0;
+}
+@font-face {
+  font-family: myFont; /* set name */
+  src: url(sansation_light.woff); /* url of the font */
+}
+body{
+    font-family: Georgia, Times, serif;
+    font-size: 1.2em;
+    text-align: center;
+    margin: 0;
+}
+p{
+    text-align: center;
+    margin-left: 20vmax;
+    margin-right: 20vmax;
+}
+
+
+
+/*Navigation bar*/
+.topnav {
+    list-style-type: none;
+    display: inline-block;
+    text-align: right;
+    margin: 0 auto;
+    overflow: visible;
+}
+
+.topnav a {
+    float: left;
+    color: black;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.topnav a.active {
+    background-color: #E0E0FF;
+    color: black;
+}
