@@ -1,17 +1,13 @@
 h1{
 color: black;
 }
-@font-face {
-  font-family: myFont; /* set name */
-  src: url(sansation_light.woff); /* url of the font */
-}
 
 a{
     color: #5050f0
 }
 
 body{
-    font-family: Georgia, Times, serif;
+    font-family: "Times New Roman", Times, serif;
     font-size: 1.2em;
     text-align: center;
     margin: 0;
