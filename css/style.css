@@ -1,6 +1,9 @@
 
 h1{
-color: black;
+    color: black;
+    margin-left: 30vw;
+    margin-right: 30vw;
+     text-align: center;
 }
 a{
     color: #5050f0
@@ -13,8 +16,8 @@ body{
 }
 p{
     text-align: justify;
-    margin-left: 30vw;
-    margin-right: 30vw;
+    margin-left: 25vw;
+    margin-right: 25vw;
 }
 
 textarea{
